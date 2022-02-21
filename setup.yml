@@ -1,0 +1,6 @@
+---
+- hosts: node3
+  roles:
+  - apache
+
+...
